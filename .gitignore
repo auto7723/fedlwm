@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+runs/
+data/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+!tests/fixtures/*.npz
